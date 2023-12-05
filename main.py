@@ -1,4 +1,4 @@
-"""Main entrypoint for the app."""
+"""Main entrypoint for the ragout app."""
 import asyncio
 import os
 from operator import itemgetter
